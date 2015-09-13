@@ -1,0 +1,22 @@
+[*] Getting a
+[*] Getting b
+[*] Getting c
+[*] Getting d
+[*] Getting e
+[*] Getting f
+[*] Getting 0
+[*] Getting 1
+[*] Getting 2
+[*] Getting 3
+[*] Getting 4
+[*] Getting 5
+[*] Getting 6
+[*] Getting 7
+[*] Getting 8
+[*] Getting 9
+[*] Getting M
+[*] Getting A
+[*] Getting {
+[*] Getting }
+[+] Flag is MMA{bba85b6768db240f8c4ae3c29f9928c74f6ca091}
+
